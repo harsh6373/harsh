@@ -1,2 +1,3 @@
 # harsh
-i am a student of IT
+i am a IT student
+
